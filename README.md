@@ -43,9 +43,12 @@
 
 | Components | Marks |
 |:----------|:-----:|
-| **[Internal][CA]**  | 20 |
+| **[Internal][CA] Quiz**  | 7.5 |
+| **[Internal][CA] Courses**  | 7.5 |
+| **[Internal][CA] Seminar**  | 7.5 |
+| **[Internal][CA] Assignments**  | 7.5 |
 | **[Internal]** Mid-Term | 30 |
-| **[External]** End-Semester Exam | 50 |
+| **[External]** End-Semester Exam | 40 |
 
 ### Case-Study
 [Click Here](Mini-Project) to view Mini-Project Topics and Teams <br>
