@@ -21,20 +21,20 @@
 | Unit # | Lecture No. | Topic | No. of Hours |
 |:------:|:-----------:|-------|:------------:|
 | # | # | Course and Class Introduction  | |
-| 1 | 1 | Introduction to Cloud Computing  | |
-| 1 | 1 | Definition of Cloud Computing |  |
-| 1 | 4 | Evolution of Cloud Computing  |  |
-| 1 | 2 | NIST Reference Model  |  |
-| 1 | 3 | Benefits and Challenges of Cloud Adoption  |  |
-| 1 | 3 | Introduction to popular Cloud Platforms  |  |
-| 2 | 5 | Virtualization and Cloud Computing Architecture  |  | 
-| 2 | 5 | Introduction & Characteristic of Virtualized Environments  |  |
-| 2 | 5 | Taxonomy of Virtualization Techniques  | |
-| 2 | 6 | Technology Examples. Containers: Docker, Linux containers  | |
-| 3 | 7 | Distributed Computing  | |
-| 3 | - | Case Study Presentation  | |
+| 1 |  | Introduction to Cloud Computing  | |
+| 1 |  | Definition of Cloud Computing |  |
+| 1 |  | Evolution of Cloud Computing  |  |
+| 1 |  | NIST Reference Model  |  |
+| 1 |  | Benefits and Challenges of Cloud Adoption  |  |
+| 1 |  | Introduction to popular Cloud Platforms  |  |
+| 2 |  | Virtualization and Cloud Computing Architecture  |  | 
+| 2 |  | Introduction & Characteristic of Virtualized Environments  |  |
+| 2 |  | Taxonomy of Virtualization Techniques  | |
+| 2 |  | Technology Examples. Containers: Docker, Linux containers  | |
+| 3 |  | Distributed Computing  | |
+| 3 |  | Case Study Presentation  | |
 
-### Complimentary Courses
+### Complimentary Courses (through AWS Academy)
 
 - [AWS Academy Introduction to Cloud: Semester 1](https://awsacademy.instructure.com/courses/53114)
 - [AWS Academy Introduction to Cloud: Semester 2](https://awsacademy.instructure.com/courses/53115)
@@ -55,7 +55,6 @@
 
 | Course Start | 03 - Aug - 2023 |
 |--------------|-----------------|
-
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
