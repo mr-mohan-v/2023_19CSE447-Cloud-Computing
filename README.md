@@ -58,6 +58,9 @@
 
 | Course Start | 03 - Aug - 2023 |
 |--------------|-----------------|
+| Online Course Start | 03 - Aug - 2023 |
+| Research Paper and Topic Finalization | 03 - Aug - 2023 |
+| Mid-Term | Oct - 2023 |
 
 ### :green_book: Text and Reference Books
  - **Text:** Anthony T Velte, “Cloud Computing: A practical Approach”, Tata McGraw Hill, 2009.
