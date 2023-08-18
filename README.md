@@ -21,8 +21,8 @@
 | Unit # | Lecture No. | Topic | No. of Hours |
 |:------:|:-----------:|-------|:------------:|
 | # | # | Course and Class Introduction  | |
-| 1 |  | Introduction to Cloud Computing  | |
-| 1 |  | Definition of Cloud Computing |  |
+| 1 | 1 | Introduction to Cloud Computing  | 1 |
+| 1 | 1 | Definition of Cloud Computing | 1  |
 | 1 |  | Evolution of Cloud Computing  |  |
 | 1 |  | NIST Reference Model  |  |
 | 1 |  | Benefits and Challenges of Cloud Adoption  |  |
