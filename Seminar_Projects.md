@@ -3,6 +3,26 @@
 ![](https://img.shields.io/badge/Lecture-3-orange)  ![](https://img.shields.io/badge/Credits-3-orange) <br/>
 ![](https://img.shields.io/badge/Students-61-blue) ![](https://img.shields.io/badge/Course_Outcome_Attainment-TBD-blue) ![](https://img.shields.io/badge/Average_Marks-TBD-blue) ![](https://img.shields.io/badge/Course_Feedback-TBD-blue) 
 
+## Topic Suggestions
+- Blockchain and Cloud Integration
+- AI in Cloud Computing
+- Data Privacy Regulations in Cloud
+- Infrastructure as Code
+- IoT Integration with Cloud
+- Docker Security
+- Kubernetes Compliance
+- Serverless Computing
+- Identity Management in Multi-cloud Environments
+- Cloud Service Level Agreements
+- Cloud Data Governance and Data Lifecycle Management
+- Quantum Computing in Cloud Environments
+- Cloud Security Best Practices for GDPR Compliance
+- Cloud Compliance for Healthcare Data (HIPAA)
+- Zero Trust Architecture in Cloud Security
+- Secure DevOps in Cloud Environments
+- Cloud Security Posture Management
+- Cloud Security Governance and Compliance Frameworks
+
 ### CCE
 
 | S.No | Team Number | Names |  Topic |
